@@ -16,7 +16,7 @@
     "@types/gl-matrix": "^2.4.1",
     "gh-pages": "^5.0.0",
     "gl-matrix": "^2.7.1",
-    "preact": "^10.4.1",
+    "preact": "^10.16.0",
     "prettier": "^2.2.1",
     "sass": "^1.32.6",
     "typestyle": "^2.1.0",
