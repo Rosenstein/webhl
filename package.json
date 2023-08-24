@@ -9,7 +9,7 @@
     "deploy": "gh-pages -t true -d dist"
   },
   "dependencies": {
-    "browser-fs-access": "^0.13.1"
+    "browser-fs-access": "^0.34.1"
   },
   "devDependencies": {
     "@prefresh/vite": "^1.2.1",
