@@ -12,7 +12,7 @@
     "browser-fs-access": "^0.35.0"
   },
   "devDependencies": {
-    "@prefresh/vite": "^1.2.1",
+    "@prefresh/vite": "^2.4.3",
     "@types/gl-matrix": "^2.4.1",
     "gh-pages": "^6.0.0",
     "gl-matrix": "^3.4.3",
