@@ -16,7 +16,7 @@
     "@preact/preset-vite": "^2.7.0",
     "@prefresh/vite": "^1.2.1",
     "@types/gl-matrix": "^2.4.1",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^5.0.0",
     "gl-matrix": "^2.7.1",
     "prettier": "^2.2.1",
     "sass": "^1.32.6",
