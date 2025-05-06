@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.7.0",
-    "@prefresh/vite": "^1.2.1",
+    "@prefresh/vite": "^2.4.7",
     "@types/gl-matrix": "^2.4.1",
     "gh-pages": "^5.0.0",
     "gl-matrix": "^2.7.1",
