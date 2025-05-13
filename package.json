@@ -17,7 +17,7 @@
     "@prefresh/vite": "^2.4.7",
     "@types/gl-matrix": "^2.4.1",
     "gh-pages": "^5.0.0",
-    "gl-matrix": "^2.7.1",
+    "gl-matrix": "^3.4.3",
     "prettier": "^3.5.3",
     "sass": "^1.79.0",
     "typestyle": "^2.1.0",
