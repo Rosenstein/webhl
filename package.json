@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "browser-fs-access": "^0.38.0",
-    "preact": "^10.27.2"
+    "preact": "^10.28.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.7.0",
