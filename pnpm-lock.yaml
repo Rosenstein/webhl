@@ -12,15 +12,15 @@ importers:
         specifier: ^0.38.0
         version: 0.38.0
       preact:
-        specifier: ^10.28.0
-        version: 10.28.0
+        specifier: ^10.28.2
+        version: 10.28.2
     devDependencies:
       '@preact/preset-vite':
         specifier: ^2.7.0
-        version: 2.7.0(@babel/core@7.27.4)(preact@10.28.0)(vite@7.1.5(sass@1.86.3))
+        version: 2.7.0(@babel/core@7.27.4)(preact@10.28.2)(vite@7.1.5(sass@1.86.3))
       '@prefresh/vite':
         specifier: ^2.4.7
-        version: 2.4.7(preact@10.28.0)(vite@7.1.5(sass@1.86.3))
+        version: 2.4.7(preact@10.28.2)(vite@7.1.5(sass@1.86.3))
       '@types/gl-matrix':
         specifier: ^2.4.1
         version: 2.4.5
@@ -853,8 +853,8 @@ packages:
     resolution: {integrity: sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==}
     engines: {node: ^10 || ^12 || >=14}
 
-  preact@10.28.0:
-    resolution: {integrity: sha512-rytDAoiXr3+t6OIP3WGlDd0ouCUG1iCWzkcY3++Nreuoi17y6T5i/zRhe6uYfoVcxq6YU+sBtJouuRDsq8vvqA==}
+  preact@10.28.2:
+    resolution: {integrity: sha512-lbteaWGzGHdlIuiJ0l2Jq454m6kcpI1zNje6d8MlGAFlYvP2GO4ibnat7P74Esfz4sPTdM6UxtTwh/d3pwM9JA==}
 
   prettier@3.5.3:
     resolution: {integrity: sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==}
@@ -1290,12 +1290,12 @@ snapshots:
       '@parcel/watcher-win32-x64': 2.5.1
     optional: true
 
-  '@preact/preset-vite@2.7.0(@babel/core@7.27.4)(preact@10.28.0)(vite@7.1.5(sass@1.86.3))':
+  '@preact/preset-vite@2.7.0(@babel/core@7.27.4)(preact@10.28.2)(vite@7.1.5(sass@1.86.3))':
     dependencies:
       '@babel/core': 7.27.4
       '@babel/plugin-transform-react-jsx': 7.23.4(@babel/core@7.27.4)
       '@babel/plugin-transform-react-jsx-development': 7.22.5(@babel/core@7.27.4)
-      '@prefresh/vite': 2.4.7(preact@10.28.0)(vite@7.1.5(sass@1.86.3))
+      '@prefresh/vite': 2.4.7(preact@10.28.2)(vite@7.1.5(sass@1.86.3))
       '@rollup/pluginutils': 4.2.1
       babel-plugin-transform-hook-names: 1.0.2(@babel/core@7.27.4)
       debug: 4.3.4
@@ -1308,20 +1308,20 @@ snapshots:
 
   '@prefresh/babel-plugin@0.5.1': {}
 
-  '@prefresh/core@1.5.3(preact@10.28.0)':
+  '@prefresh/core@1.5.3(preact@10.28.2)':
     dependencies:
-      preact: 10.28.0
+      preact: 10.28.2
 
   '@prefresh/utils@1.2.0': {}
 
-  '@prefresh/vite@2.4.7(preact@10.28.0)(vite@7.1.5(sass@1.86.3))':
+  '@prefresh/vite@2.4.7(preact@10.28.2)(vite@7.1.5(sass@1.86.3))':
     dependencies:
       '@babel/core': 7.27.4
       '@prefresh/babel-plugin': 0.5.1
-      '@prefresh/core': 1.5.3(preact@10.28.0)
+      '@prefresh/core': 1.5.3(preact@10.28.2)
       '@prefresh/utils': 1.2.0
       '@rollup/pluginutils': 4.2.1
-      preact: 10.28.0
+      preact: 10.28.2
       vite: 7.1.5(sass@1.86.3)
     transitivePeerDependencies:
       - supports-color
@@ -1668,7 +1668,7 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  preact@10.28.0: {}
+  preact@10.28.2: {}
 
   prettier@3.5.3: {}
 
